@@ -1,0 +1,45 @@
+
+body{
+  background-color: #B37451;
+}
+
+p{
+  color: #53FF5A;
+  font-size: 24px;
+  background-color: #885D31;
+}
+
+h1{
+  color: #F103B2;
+  text-decoration: overline;
+  text-align: center;
+  background-color: black;
+}
+
+h3{text-align: center;
+color: orange;
+background-color: black;
+}
+
+#pic{
+margin-left:350px;
+}
+
+.links{
+  text-decoration: line-through;
+  color: yellow;
+}
+
+marquee{
+  color: #FF01FA;
+  font-size: 32pt;
+}
+
+#pika{
+  margin-left: 430px;
+}
+
+h2{
+  text-align: right;
+  color: white;
+}
